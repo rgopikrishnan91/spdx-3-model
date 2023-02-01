@@ -31,5 +31,4 @@ An Annotation is an assertion made in relation to one or more elements.
 - subject
   - type: Element
   - minCount: 1
-  - maxCount: 1
 
